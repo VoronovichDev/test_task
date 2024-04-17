@@ -14,5 +14,5 @@ ___
 - post для добавления данных в бакет. Выбираем в postman формат body - form-data. По ключу video добавляем типа данных (POST http://localhost:3000/upload)
 - get - для получения всех данных с бакета (GET http://localhost:3000/)
 
-Использованная версия node.js - 20.9.0
+Использованная версия node.js - 20.9.0.
 Демо - https://drive.google.com/file/d/1ovJ_MBmB39cUMqrI_q_JJZGOmKi6DI4T/view?usp=sharing
