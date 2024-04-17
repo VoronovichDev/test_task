@@ -15,3 +15,4 @@ ___
 - get - для получения всех данных с бакета (GET http://localhost:3000/)
 
 Использованная версия node.js - 20.9.0
+Демо - https://drive.google.com/file/d/1ovJ_MBmB39cUMqrI_q_JJZGOmKi6DI4T/view?usp=sharing
